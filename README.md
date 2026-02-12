@@ -1,4 +1,4 @@
-# 14 Şubat Sürprizi
+
 
 ## Kurulum
 
