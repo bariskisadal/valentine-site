@@ -310,7 +310,7 @@ export default function App() {
 
       {stage === "hearts" && (
         <div className="content-center">
-          <p className="lead fade-in-up">Birazdan bir mektup geliyor...</p>
+          <p className="lead fade-in-up">Birazdan sana bir mektup ulaşacak....</p>
         </div>
       )}
 
