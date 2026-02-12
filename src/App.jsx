@@ -303,7 +303,7 @@ export default function App() {
       {stage === "flowers" && (
         <div className="content-center">
           <h1 className="title-script flowers-title">
-            Sevgililer Günümüz Kutlu olsun
+            Sevgililer Günümüz Kutlu Olsun
           </h1>
         </div>
       )}
